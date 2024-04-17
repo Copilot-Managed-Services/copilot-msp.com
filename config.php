@@ -2,8 +2,8 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
-    'title' => 'Jigsaw',
-    'description' => 'Website description.',
+    'baseUrl' => 'https://copilot-msp.com',
+    'title' => 'Copilot Managed Services',
+    'description' => 'Copilot Managed Services',
     'collections' => [],
 ];
