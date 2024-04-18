@@ -9,6 +9,7 @@ mix
   .js("source/_assets/js/main.js", "js")
   .css("source/_assets/css/main.css", "css", [
     require("postcss-import"),
+    require("tailwindcss/nesting"),
     require("tailwindcss"),
   ])
   .options({
