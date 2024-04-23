@@ -14,9 +14,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Inter var", "sans-serif"],
-        roboto: ["Roboto Slab", "sans-serif"],
-        cinzel: ["Cinzel", "serif"],
+        lato: ["Lato", "sans-serif"],
       },
       lineHeight: {
         normal: "1.6",
