@@ -3,15 +3,20 @@
         <nav>
             <div class="flex justify-between items-center">
                 <div class="flex">
-                    <div><img class="py-2" src="assets/images/copilot.svg" alt=""></div>
+                    <div><a href="/"><img class="py-2" src="/assets/images/copilot.svg" alt=""></a></div>
                 </div>
-                {{-- <div class="hidden sm:ml-6 sm:block">
+                <div class="hidden sm:ml-6 sm:block">
                     <div class="flex space-x-4 font-lato uppercase">
-                        <a href="#" class="text-gray-600 font-medium" aria-current="page">About</a>
-                        <a href="#" class="text-gray-600 font-medium">Services</a>
-                        <a href="#" class="text-gray-600 font-medium">Contact</a>
+                        <a title="{{ $page->siteName }} About" href="/about"
+                            class="ml-6 border-transparent text-gray-600 font-lg font-semibold hover:border-cp_darkblue hover:text-gray-900 border-b-2 px-1 pt-1
+                            {{ $page->isActive('/about') ? 'active border-b-2 border-red' : '' }}">
+                            About</a>
+                        <a href="/services"
+                            class="ml-6 border-transparent text-gray-600 font-lg font-semibold hover:border-cp_darkblue hover:text-gray-900 border-b-2 px-1 pt-1
+                            {{ $page->isActive('/services') ? 'active border-b-2 border-red' : '' }}">Services</a>
+                        {{-- <a href="#" class="text-gray-600 font-medium">Contact</a> --}}
                     </div>
-                </div> --}}
+                </div>
                 <div>
                     <a href="mailto:info@copilot-msp.com" target="_new"
                         class="rounded-md bg-cp_green px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-cp_lightblue focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact

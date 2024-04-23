@@ -30,7 +30,6 @@ description: Home Page
     <div class="py-10 sm:py-18 bg-gray-200">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-4xl lg:text-center">
-                {{-- <h2 class="text-base font-semibold leading-7 text-cp_darkblue">Trusted Advisors</h2> --}}
                 <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl font-lato">Everything you need to securly support your business.</p>
                 <p class="mt-6 text-lg leading-8 text-gray-600">Comprehensive IT solutions focused on proactive maintenance, robust cybersecurity, and
                     responsive support to keep your business running smoothly and securely.</p>
