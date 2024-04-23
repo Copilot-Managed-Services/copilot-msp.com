@@ -111,11 +111,9 @@ description: Home Page
                             on growing your business. Think of us as your copilot – together, we'll reach new heights."</p>
                     </blockquote>
                 </div>
-                {{-- <div class="col-end-1 w-16 lg:row-span-4 lg:w-72">
-                    <img class="rounded-xl bg-indigo-50 lg:rounded-3xl"
-                        src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=576&h=576&q=80"
-                        alt="">
-                </div> --}}
+                <div class="col-end-1 w-16 lg:row-span-4 lg:w-72">
+                    <img class="rounded-xl bg-indigo-50 lg:rounded-3xl" src="assets/images/cyber-managed.jpg" alt="">
+                </div>
                 <figcaption class="text-base lg:col-start-1 lg:row-start-3">
                     <div class="font-semibold text-gray-900">Alex Nearing</div>
                     <div class="mt-1 text-gray-500">CEO</div>
