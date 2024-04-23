@@ -12,7 +12,7 @@ description: Home Page
             <div class="mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-6 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8">
                 <h1 class="max-w-2xl text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:col-span-2 xl:col-auto font-lato">Let us help you fly your business...</h1>
                 <div class="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
-                    <p class="text-lg leading-8 text-gray-600">Elevate your business with Copilot Managed Services, your trusted partner in navigating the complexities of IT security.
+                    <p class="text-lg leading-8 text-gray-600">We are your trusted partner in navigating the complexities of IT security.
                         Our expert team delivers tailored cybersecurity solutions, empowering you to focus on growth while we ensure your company's digital well-being.</p>
                     <div class="mt-10 flex items-center gap-x-6">
                         <a href="#"
@@ -30,9 +30,9 @@ description: Home Page
     <div class="py-10 sm:py-18 bg-gray-200">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-4xl lg:text-center">
-                <h2 class="text-base font-semibold leading-7 text-cp_darkblue">Trusted Advisors</h2>
+                {{-- <h2 class="text-base font-semibold leading-7 text-cp_darkblue">Trusted Advisors</h2> --}}
                 <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Everything you need to securly support your business.</p>
-                <p class="mt-6 text-lg leading-8 text-gray-600">Copilot Managed Services offers comprehensive IT solutions focused on proactive maintenance, robust cybersecurity, and
+                <p class="mt-6 text-lg leading-8 text-gray-600">Comprehensive IT solutions focused on proactive maintenance, robust cybersecurity, and
                     responsive support to keep your business running smoothly and securely.</p>
             </div>
             <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -47,7 +47,7 @@ description: Home Page
                             Proactive Maintenance
                         </dt>
                         <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
-                            <p class="flex-auto">Our team conducts regular monitoring, updates, and optimization of your IT infrastructure to prevent potential issues and ensure peak
+                            <p class="flex-auto">Regular monitoring, updates, and optimization of your IT infrastructure to prevent potential issues and ensure peak
                                 performance.</p>
                             <p class="mt-6">
                                 {{-- <a href="#" class="text-sm font-semibold leading-6">Learn more <span aria-hidden="true">→</span></a> --}}
