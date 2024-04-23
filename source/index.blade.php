@@ -62,7 +62,14 @@ description: Home Page
                                     clip-rule="evenodd" />
                             </svg>
                             Robust Cybersecurity
-                            </dt>href="mailto:info@copilot-msp.com"
+                        </dt>
+                        <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                            <p class="flex-auto">Advanced security measures, including firewalls, threat detection, and employee training, to protect your
+                                business from cyber threats.</p>
+                            <p class="mt-6">
+                                {{-- <a href="#" class="text-sm font-semibold leading-6">Learn more <span aria-hidden="true">→</span></a> --}}
+                            </p>
+                        </dd>
                     </div>
                     <div class="flex flex-col">
                         <dt class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
@@ -72,7 +79,15 @@ description: Home Page
                                     clip-rule="evenodd" />
                             </svg>
                             Responsive Support
-                            </dt>href="mailto:info@copilot-msp.com"
+                        </dt>
+                        <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                            <p class="flex-auto">Our experienced technicians are available round-the-clock to provide prompt, reliable support and quickly resolve any IT issues that
+                                may arise.</p>
+                            <p class="mt-6">
+                                {{-- <a href="#" class="text-sm font-semibold leading-6">Learn more <span aria-hidden="true">→</span></a> --}}
+                            </p>
+                        </dd>
+                    </div>
                 </dl>
             </div>
         </div>
