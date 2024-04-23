@@ -13,7 +13,7 @@
                     </div>
                 </div>
                 <div>
-                    <a href="mailto:info@copilot-msp.com"
+                    <a href="mailto:info@copilot-msp.com" target="_new"
                         class="rounded-md bg-cp_green px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-cp_lightblue focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact
                         Us</a>
                     {{-- <button type="button"

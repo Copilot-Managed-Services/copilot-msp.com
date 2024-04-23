@@ -15,7 +15,7 @@ description: Home Page
                     <p class="text-lg leading-8 text-gray-600">We are your trusted partner in navigating the complexities of IT security.
                         Our expert team delivers tailored cybersecurity solutions, empowering you to focus on growth while we ensure your company's digital well-being.</p>
                     <div class="mt-10 flex items-center gap-x-6">
-                        <a href="mailto:info@copilot-msp.com"
+                        <a href="mailto:info@copilot-msp.com" target="_new"
                             class="rounded-md bg-cp_green px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-cp_lightblue focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get
                             started</a>
                         {{-- <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a> --}}
@@ -31,7 +31,7 @@ description: Home Page
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-4xl lg:text-center">
                 {{-- <h2 class="text-base font-semibold leading-7 text-cp_darkblue">Trusted Advisors</h2> --}}
-                <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Everything you need to securly support your business.</p>
+                <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl font-lato">Everything you need to securly support your business.</p>
                 <p class="mt-6 text-lg leading-8 text-gray-600">Comprehensive IT solutions focused on proactive maintenance, robust cybersecurity, and
                     responsive support to keep your business running smoothly and securely.</p>
             </div>
@@ -62,14 +62,7 @@ description: Home Page
                                     clip-rule="evenodd" />
                             </svg>
                             Robust Cybersecurity
-                        </dt>
-                        <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
-                            <p class="flex-auto">Advanced security measures, including firewalls, threat detection, and employee training, to protect your
-                                business from cyber threats.</p>
-                            <p class="mt-6">
-                                {{-- <a href="#" class="text-sm font-semibold leading-6">Learn more <span aria-hidden="true">→</span></a> --}}
-                            </p>
-                        </dd>
+                            </dt>href="mailto:info@copilot-msp.com"
                     </div>
                     <div class="flex flex-col">
                         <dt class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
@@ -79,15 +72,7 @@ description: Home Page
                                     clip-rule="evenodd" />
                             </svg>
                             Responsive Support
-                        </dt>
-                        <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
-                            <p class="flex-auto">Our experienced technicians are available round-the-clock to provide prompt, reliable support and quickly resolve any IT issues that
-                                may arise.</p>
-                            <p class="mt-6">
-                                {{-- <a href="#" class="text-sm font-semibold leading-6">Learn more <span aria-hidden="true">→</span></a> --}}
-                            </p>
-                        </dd>
-                    </div>
+                            </dt>href="mailto:info@copilot-msp.com"
                 </dl>
             </div>
         </div>
@@ -127,13 +112,13 @@ description: Home Page
     <div class="bg-gray-200">
         <div class="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
             <div class="mx-auto max-w-4xl text-center">
-                <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Take control of your IT security and unlock your business's potential with Copilot Managed
-                    Services. </h2>
+                <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl font-lato">Take control of your IT security and unlock your business's potential with Copilot
+                    Managed Services. </h2>
                 <p class="mx-auto mt-6 max-w-3xl text-lg leading-8 text-gray-600">Schedule a no-obligation consultation with our expert team today, and discover how our tailored
                     solutions can protect your company, streamline your operations, and support your growth. Don't wait until it's too late – contact us now to start your journey
                     towards a secure and thriving future.</p>
                 <div class="mt-10 flex items-center justify-center gap-x-6">
-                    <a href="mailto:info@copilot-msp.com"
+                    <a href="mailto:info@copilot-msp.com" target="_new"
                         class="rounded-md bg-cp_green px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-cp_lightblue focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get
                         started</a>
                     {{-- <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a> --}}
